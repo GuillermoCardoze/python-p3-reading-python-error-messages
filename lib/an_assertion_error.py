@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
 
-assert(1 == 2)
+self = 1 == 2
+
+def test_assertion_error(self):
+    assert(1 == 2)

@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
 
-print(hello_world)
+self = "hello world"
+
+def test_name_error(self):
+    print(hello_world)
